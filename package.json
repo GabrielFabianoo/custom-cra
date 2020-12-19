@@ -6,10 +6,10 @@
     "create-react-app",
     "template"
   ],
-  "description": "The base template for Create React App.",
+  "description": "Custom CRA with the essential libs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/GabrielFabianoo/custom-cra-gabrielfabiano.git",
     "directory": "packages/cra-template"
   },
   "license": "MIT",
